@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Height</key>
+	<integer>100</integer>
+	<key>Layers</key>
+	<array>
+		<dict>
+			<key>Height</key>
+			<integer>40</integer>
+			<key>Name</key>
+			<string>layerNumberOne</string>
+			<key>Width</key>
+			<integer>112</integer>
+			<key>X</key>
+			<integer>22</integer>
+			<key>Y</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>Height</key>
+			<integer>43</integer>
+			<key>Name</key>
+			<string>layerNumberTwo</string>
+			<key>Width</key>
+			<integer>156</integer>
+			<key>X</key>
+			<integer>0</integer>
+			<key>Y</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>Height</key>
+			<integer>17</integer>
+			<key>Name</key>
+			<string>layerNumberThree</string>
+			<key>Width</key>
+			<integer>126</integer>
+			<key>X</key>
+			<integer>22</integer>
+			<key>Y</key>
+			<integer>13</integer>
+		</dict>
+	</array>
+	<key>Width</key>
+	<integer>200</integer>
+</dict>
+</plist>
